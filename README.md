@@ -11,7 +11,7 @@ Example file:
  <circle cx="5" cy="5" r="10" fill="blue" />
  <line x1="100" y1="60" x2="10" y2="10" fill="red" />
 </svg>
--Displays all figures on the screen
+-Displays all figures on the screen \n
   print
 -Creates a new figure
   create figure points fill
