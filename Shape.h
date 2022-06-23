@@ -35,7 +35,7 @@ public:
 
 	const char* getColour() const;
 
-	virtual const Point getPoint();
+	const Point getPoint();
 	virtual double getArea() const = 0;
 	virtual double getPer() const = 0;
 	virtual bool isPointIn(double x, double y) const = 0;
