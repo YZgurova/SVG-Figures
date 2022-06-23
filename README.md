@@ -11,11 +11,11 @@ Example file:
  <circle cx="5" cy="5" r="10" fill="blue" />
  <line x1="100" y1="60" x2="10" y2="10" fill="red" />
 </svg>
--Displays all figures on the screen \n
+-Displays all figures on the screen
   print
 -Creates a new figure
   create figure points fill
-  example: create rect 1 2 3 4 blue
+  example: create rectangle 1 2 3 4 blue
 -Erases the figure
   erase index
 -Translates one or all figures
